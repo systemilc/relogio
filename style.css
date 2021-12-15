@@ -37,3 +37,10 @@ h2{
     font-style: normal;
     color: #FFB923;
 }
+
+#nome{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Archivo', sans-serif;
+    font-style: normal;
+}
